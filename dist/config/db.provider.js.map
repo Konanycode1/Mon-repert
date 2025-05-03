@@ -1,0 +1,1 @@
+{"version":3,"file":"db.provider.js","sourceRoot":"","sources":["../../src/config/db.provider.ts"],"names":[],"mappings":";;;AAAA,qCAAqC;AACrC,qDAAuC;AAE1B,QAAA,iBAAiB,GAAG;IAC/B;QACE,OAAO,EAAE,qBAAqB;QAC9B,UAAU,EAAE,GAA6B,EAAE,CACzC,QAAQ,CAAC,OAAO,CAAC,oBAAG,CAAC,YAAY,CAAC;KACrC;CACF,CAAC"}
